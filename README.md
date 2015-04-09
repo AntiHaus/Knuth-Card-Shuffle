@@ -1,4 +1,4 @@
-# Knuth_CardShuffle
+# Knuth Car Shuffle
 Knuth shuffle an array in Swift.  Create a deck of cards, and give it a shuffle.
 
 ```swift
